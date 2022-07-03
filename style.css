@@ -1,0 +1,38 @@
+body{
+    background-color:  #E9ECEF;
+}
+
+h1{
+    color: brown;
+}
+
+p{
+    margin-left: 20px;
+}
+
+
+.navbar{
+    display: block;
+}
+
+.navbar-content {
+    display: flex;
+    overflow: hidden;
+    text-decoration: none;
+}
+
+.row a:hover{
+    text-decoration: underline;
+}
+
+a{
+    overflow: hidden;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.card{
+    margin: auto;
+}
